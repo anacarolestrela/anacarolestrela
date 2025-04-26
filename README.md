@@ -129,3 +129,12 @@ Me chamo Ana Carolina Estrela e sou natural da Bahia. Atualmente, estou cursando
 <br/>
 
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolestrela&theme=dracula&show_icons=true&hide_border=false&layout=compact" 
+  />
+
+
+
